@@ -51,7 +51,7 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
 
-          git add kora.zip || true
+          git add kora || true
           git commit -m "auto update m3u" || echo "No changes to commit"
 
           # Ambil perubahan terbaru dulu
