@@ -1,40 +1,64 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [19:27 WIB 18/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [20:42 WIB 18/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Brentford vs Fulham [19:27 WIB 18/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Brentford vs Fulham [20:42 WIB 18/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=8BJjHVfay9IpWrvOXwb2Ew6WZCJg8zAApe5QTBFCfFA&e=1776526032
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=wcUmJp1ZTjY3sDNaSHO9WNYc5mH5JpLdCOimEqRbP4I&e=1776530493
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",FC Magdeburg vs Fortuna Dusseldorf [19:27 WIB 18/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",FC Magdeburg vs Fortuna Dusseldorf [20:42 WIB 18/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://tx5nushj.83870203.net:8443/hls/s426q9grik.m3u8?s=OYkcGr6hxVKpafcZGodEwg&e=1776536840
+https://tx5nushj.83870203.net:8443/hls/s426q9grik.m3u8?s=50_AX_6YgM8EySH9JQXLMg&e=1776541301
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Dynamo Dresden vs Bochum [19:27 WIB 18/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Dynamo Dresden vs Bochum [20:42 WIB 18/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://tx5nushj.83870203.net:8443/hls/mhbq0m7am17nhai.m3u8?s=UIjdLiqj4YswhrqZejtzzg&e=1776536846
+https://tx5nushj.83870203.net:8443/hls/mhbq0m7am17nhai.m3u8?s=RxgpSypOlH_OkslrQ-5GUA&e=1776541307
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Brentford vs Fulham [19:27 WIB 18/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Mamelodi Sundowns vs Esperance Tunis [20:42 WIB 18/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=N74VOKnCryn0PR-o-T5RQ2wVHYHXpw_59rpqpXzaoP0&e=1776526053
+https://s3.eu-north-1.amazonaws.com/196.d2/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",FC Magdeburg vs Fortuna Dusseldorf [19:27 WIB 18/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Udinese vs Parma [20:42 WIB 18/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://tx5nushj.83870203.net:8443/hls/s426q9grik.m3u8?s=Mg6vpiyZSfknK2X-qnnqQA&e=1776536859
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=7mefnUY5L97eO_xZnqcwo1_-W-j82NtIBfOrr6YRFWc&e=1776530522
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Dynamo Dresden vs Bochum [19:27 WIB 18/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Brentford vs Fulham [20:42 WIB 18/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://tx5nushj.83870203.net:8443/hls/mhbq0m7am17nhai.m3u8?s=d8s2WUiYOFW-zuHhZ2Yu2Q&e=1776536865
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=wzxxNaNZ4ISQCk3nQAJKuiWSWeJDatprZvgSQHaFp_g&e=1776530529
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",FC Magdeburg vs Fortuna Dusseldorf [20:42 WIB 18/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://tx5nushj.83870203.net:8443/hls/s426q9grik.m3u8?s=CCgIMy2xXrmnYCiWUV_I9w&e=1776541336
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Dynamo Dresden vs Bochum [20:42 WIB 18/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://tx5nushj.83870203.net:8443/hls/mhbq0m7am17nhai.m3u8?s=WOhlyHrhb4x6sJaGtSNAXw&e=1776541343
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Mamelodi Sundowns vs Esperance Tunis [20:42 WIB 18/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://s3.eu-north-1.amazonaws.com/196.d2/hls/1/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Udinese vs Parma [20:42 WIB 18/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=PNfPUgWiuO-TxgYzX7A6BKzk8Bhiggus698gcmUzCCM&e=1776530557
 
