@@ -1,0 +1,62 @@
+name: Kora xdxzaap
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kora-xdxza
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-24.04
+
+    env:
+      # Script Python base64 encoded
+      BX_PY: ${{ secrets.BX_PY }}
+      # GitHub token bawaan untuk push
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install aiohttp playwright
+          playwright install --with-deps chromium
+
+      - name: Write script from secret
+        run: |
+          echo "$BX_PY" | base64 --decode > bx.py
+          echo "bx.py created from secret"
+
+      - name: Run script
+        run: python bx.py
+
+      - name: Safe Commit & Push
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+
+          git add kora || true
+          git commit -m "auto update m3u" || echo "No changes to commit"
+
+          # Ambil perubahan terbaru dulu
+          git pull --rebase --autostash || echo "Nothing to pull"
+
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          git push || echo "Push failed but ignored"
+          
