@@ -19,7 +19,7 @@ BATCH_SIZE = 1
 
 # 👉
 WORKFLOW_LIST = [
-    "example.yml",
+    "bxx.yml",
 ]
 
 # 👉
@@ -28,7 +28,7 @@ temp = []
 
 for wf in WORKFLOW_LIST:
 
-    if wf == "example.yml":
+    if wf == "bxx.yml":
         if temp:
             WORKFLOW_GROUPS.append(temp)
             temp = []
