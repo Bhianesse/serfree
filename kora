@@ -1,22 +1,46 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:13 WIB 23/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:16 WIB 23/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Sociedad vs Getafe [01:13 WIB 23/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Elche CF vs Atletico Madrid [01:16 WIB 23/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?st=i4-y5x_3AZf9_-Dq9kZWvEeLsh5puFgS3ufcCfgTd2U&e=1776892341
+https://k7h2hupk.58103793.net:8443/hls/l57xdb4wvi930cf.m3u8?s=mrEQyqZNiDSKd2JApu81BQ&e=1776903296
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Elche CF vs Atletico Madrid [01:13 WIB 23/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paris Saint-Germain vs FC Nantes [01:16 WIB 23/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://sea3mr6j.83870203.net:8443/hls/6jr6f01p2.m3u8?s=JDw1MppQZ7B7-hxVdOMP9g&e=1776903149
+https://mainstreams.pro/hls/dza5z8f69.m3u8?st=DVuWU8pD3s3IydfZiCSFu9vPRV2ji7k6GPrrFTzn7eg&e=1776892512
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paris Saint-Germain vs FC Nantes [01:13 WIB 23/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Sociedad vs Getafe [01:16 WIB 23/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/dza5z8f69.m3u8?st=l0lobEvLmW8ZNchg8w4NJuyRANo2Wbu2CXHYD_dWT_k&e=1776892364
+https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?st=hTvA4XGzgCrUhjeeuIs_kopeQ-0sW9nu6L_Rhh--Vv8&e=1776892526
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Elche CF vs Atletico Madrid [01:16 WIB 23/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://k7h2hupk.58103793.net:8443/hls/6jr6f01p2.m3u8?s=Dm5uHUSsXccMpY6ZI1paRQ&e=1776903344
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paris Saint-Germain vs FC Nantes [01:16 WIB 23/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://edge2caster.pro/hls/dza5z8f69.m3u8?st=Y9mo7l_wcHYwqJKKxqNXKVok8Fyf6IaQpThBL1pPQ9Y&e=1776892561
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Sociedad vs Getafe [01:16 WIB 23/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?st=418NVZon9e-rNiaIJjStSgBOa7l4PQcN2HkGuq_-bx8&e=1776892573
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Bayer 04 Leverkusen vs Bayern Munich [01:16 WIB 23/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://edge2caster.pro/hls/ueyeztrazb4.m3u8?st=S7UEe3PjDTXTAQ0_uPLfq39YHmWBCWIstE3zhDdVFx0&e=1776892587
 
