@@ -1,34 +1,46 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [22:39 WIB 23/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [22:41 WIB 23/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Esperance Tunis vs ES Zarzis [22:39 WIB 23/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Esperance Tunis vs ES Zarzis [22:41 WIB 23/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://s3.us-east-1.amazonaws.com/195.yy6/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Samsunspor vs Trabzonspor [22:39 WIB 23/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Samsunspor vs Trabzonspor [22:41 WIB 23/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://sea3mr6j.83870203.net:8443/hls/qgdzborpo.m3u8?s=DWQSFpAKBlfDf-Cqvx42sQ&e=1776980314
+https://cqr2aqt6.58103793.net:8443/hls/qgdzborpo.m3u8?s=AElk9dRIAaoqDB0ad-KJRg&e=1776980466
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Salt Lake vs Inter Miami CF [22:39 WIB 23/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Levante vs Sevilla [22:41 WIB 23/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://sea3mr6j.83870203.net:8443/hls/pdiez3cpk4198.m3u8?s=I0g4SabouUshcBIIGGcoWg&e=1776980324
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=I4Q04Q6XDsCKGKp7Mlu5R7upu9alCohw6156ECPvsCI&e=1776969673
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Esperance Tunis vs ES Zarzis [22:39 WIB 23/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Salt Lake vs Inter Miami CF [22:41 WIB 23/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://cqr2aqt6.58103793.net:8443/hls/pdiez3cpk4198.m3u8?s=A2hmutHo2UegUo1mrNrUrQ&e=1776980480
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Esperance Tunis vs ES Zarzis [22:41 WIB 23/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://s3.us-east-1.amazonaws.com/195.yy6/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Samsunspor vs Trabzonspor [22:39 WIB 23/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Samsunspor vs Trabzonspor [22:41 WIB 23/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://sea3mr6j.83870203.net:8443/hls/qgdzborpo.m3u8?s=wEzPbkXdy9zEM3da-en07A&e=1776980338
+https://cqr2aqt6.58103793.net:8443/hls/qgdzborpo.m3u8?s=Qn8hjJ6uItzSkO2Z404zVw&e=1776980493
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Levante vs Sevilla [22:41 WIB 23/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=OC3WdGd130w_W5Mz8tvHlqa_kykRfE3GD96QGwfNbfk&e=1776969699
 
