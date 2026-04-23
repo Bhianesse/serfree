@@ -1,88 +1,70 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [00:33 WIB 24/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [00:37 WIB 24/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Samsunspor vs Trabzonspor [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Esperance Tunis vs ES Zarzis [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/qgdzborpo.m3u8?s=DDwj73AoEB2mxbElEQcKPA&e=1776987111
+https://s3.us-east-1.amazonaws.com/195.yy6/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Al-Shabab vs Al-Rayyan [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Samsunspor vs Trabzonspor [00:37 WIB 24/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://tx5nushj.83870203.net:8443/hls/qgdzborpo.m3u8?s=ThW_DtH2YCKlxABbEPhyIw&e=1776987389
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Al-Shabab vs Al-Rayyan [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Go Ahead Eagles vs AZ Alkmaar [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Go Ahead Eagles vs AZ Alkmaar [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/kw6ef0n921mnbf0.m3u8?s=RIn54Fe89BCB5iyFLFe_hg&e=1776987122
+https://tx5nushj.83870203.net:8443/hls/kw6ef0n921mnbf0.m3u8?s=RGvLdaGa-6kygOcgmsa4Jw&e=1776987402
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Levante vs Sevilla [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Samsunspor vs Trabzonspor [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=jrkzBOrqT8xR7vkA5zanZJY4mO8HTeZZw0F1O5Tj2R0&e=1776976327
+https://tx5nushj.83870203.net:8443/hls/qgdzborpo.m3u8?s=O8zmw5-fZTDIhkmgVvNiqg&e=1776987408
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Alanyaspor [00:33 WIB 24/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/6jr6f01p2.m3u8?s=WA29GEIOQK-vcx1Vn_xNWg&e=1776987133
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Casa Pia vs Sporting Braga [00:33 WIB 24/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=z2a5K6euyc3XpBzq_fXTQg&e=1776987139
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rayo Vallecano vs Espanyol [00:33 WIB 24/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=GfH_ksmT3_v_rfsS7z0gCkvF0d0r7ZrrtTDq19GPegY&e=1776976345
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Samsunspor vs Trabzonspor [00:33 WIB 24/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/qgdzborpo.m3u8?s=iL7Oo5KwrprehunN4wfh2w&e=1776987153
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Al-Shabab vs Al-Rayyan [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Al-Shabab vs Al-Rayyan [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Go Ahead Eagles vs AZ Alkmaar [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Go Ahead Eagles vs AZ Alkmaar [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/kw6ef0n921mnbf0.m3u8?s=YOmvx5FpVO3nMDFbZu5VlA&e=1776987164
+https://tx5nushj.83870203.net:8443/hls/kw6ef0n921mnbf0.m3u8?s=ZZTxF3iUFLglUSNcF_ODWw&e=1776987421
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Levante vs Sevilla [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Levante vs Sevilla [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=FNzw1UYOcmM0gsH2DvJXMGGnmEpKp-Z0lPd21cXmrOE&e=1776976369
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=rFGHc78_cljCSYo316-hlAeE-laRcG1eWpPrTGAaw-I&e=1776976627
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Alanyaspor [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Alanyaspor [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/6jr6f01p2.m3u8?s=nrII3-Q7_6eNhb7uh1c-hA&e=1776987175
+https://tx5nushj.83870203.net:8443/hls/6jr6f01p2.m3u8?s=Y6yVyBzr32VVgfmtzXc0Fw&e=1776987434
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Casa Pia vs Sporting Braga [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Casa Pia vs Sporting Braga [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=b5VGG2AnPHARI-7ioZQPnw&e=1776987181
+https://tx5nushj.83870203.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=CrmISpUPcFNAhglkgfhxnQ&e=1776987440
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rayo Vallecano vs Espanyol [00:33 WIB 24/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rayo Vallecano vs Espanyol [00:37 WIB 24/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=rrk3w_ZwARBBOl1AmRXOR4N1UitF91jA8wYhN9ixkas&e=1776976387
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=fe6tuC3RamM2ecYGmzyteON8rauQPyrgrzvUZcbAHtg&e=1776976646
 
