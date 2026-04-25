@@ -1,22 +1,46 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [05:07 WIB 26/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [05:11 WIB 26/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Vitoria Guimaraes vs Rio Ave [05:07 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Bahia vs Santos [05:11 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://b84gdva8.39564828.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=wUt1wq3Jv2P1aFAgfZqw_w&e=1777176335
+https://eyk4pqe8.04334746.net:8443/hls/qyuasy56q.m3u8?s=6_U29iyLGgVJDN8WS3verw&e=1777176633
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Botafogo vs Internacional [05:07 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Botafogo vs Internacional [05:11 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://b84gdva8.39564828.net:8443/hls/6349ts7.m3u8?s=54FEH7PnSaAfcTBDf5HRWA&e=1777176357
+https://eyk4pqe8.04334746.net:8443/hls/6349ts7.m3u8?s=aily7iAn4nQ0EnpfihLrHA&e=1777176640
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",remo vs Cruzeiro [05:07 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",remo vs Cruzeiro [05:11 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://b84gdva8.39564828.net:8443/hls/m13ol1jmh9jli4.m3u8?s=4Xc69tSRiN9IsY5xgn43kw&e=1777176363
+https://eyk4pqe8.04334746.net:8443/hls/m13ol1jmh9jli4.m3u8?s=lXGgz9S5cxE-VUUfeVraGA&e=1777176647
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Aljamain Sterling vs Youssef Zalal [05:11 WIB 26/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://edgestreams.pro/hls/zeuryuegn48.m3u8?st=K7-AAFTLbhQhIudWx_me_nmJtjaeaXn8DDkQYBCSFmI&e=1777165854
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Vitoria Guimaraes vs Rio Ave [05:11 WIB 26/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://eyk4pqe8.04334746.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=123eAb9Bouo0zZ0tYyIViQ&e=1777176661
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Bahia vs Santos [05:11 WIB 26/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://eyk4pqe8.04334746.net:8443/hls/qyuasy56q.m3u8?s=1oVPhNag3FbOcNgtXWKeYA&e=1777176669
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Botafogo vs Internacional [05:11 WIB 26/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://eyk4pqe8.04334746.net:8443/hls/6349ts7.m3u8?s=wjukRwlHCq4Wzh1iilybWQ&e=1777176677
 
