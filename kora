@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [14:39 WIB 26/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [14:41 WIB 26/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sao Paulo vs Mirassol [14:39 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Aljamain Sterling vs Youssef Zalal [14:41 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://gt7gapsu.39564828.net:8443/hls/mxpjkbo9xahma.m3u8?s=lSU9VLLFpegs8S-iVCtgYQ&e=1777210775
+https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=hEhAywe2udaO55ebKD3TEQxwi6NZ7IiJuM_7XsB2NB4&e=1777200093
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",River Plate vs Aldosivi [14:39 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sao Paulo vs Mirassol [14:41 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://gt7gapsu.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=Mb99X4hIJP36R_RyQvJJjw&e=1777210781
+https://h4kuqqzp.39564828.net:8443/hls/mxpjkbo9xahma.m3u8?s=fWumbWxc2C1pM4gkVxD5wQ&e=1777210899
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",River Plate vs Aldosivi [14:41 WIB 26/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://h4kuqqzp.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=MjlL-xWnBiCwEu05Mso89g&e=1777210905
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Aljamain Sterling vs Youssef Zalal [14:41 WIB 26/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/zeuryuegn48.m3u8?st=q_fDkjozk2DccWA62hGzeMC3XiRpeZgP_BoBlFmdD8w&e=1777200111
 
