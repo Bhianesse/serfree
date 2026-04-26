@@ -1,46 +1,58 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [18:02 WIB 26/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [18:04 WIB 26/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Fiorentina vs Sassuolo [18:02 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Fiorentina vs Sassuolo [18:04 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=08xSAnIVpk-A7mglX9l-ZIIlLfKBZkpdiNcfE2Lq7LA&e=1777212123
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=qA_1MLSSq3VjAoE2c1lGgLpyGlPpj03Ze9ky1L_IoLo&e=1777212207
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Coventry City vs Wrexham [18:02 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Coventry City vs Wrexham [18:04 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/pdiez3cpk4198.m3u8?s=kaYtU9CiBHw4wEcCQuoGQw&e=1777222930
+https://hh0d260q92fp.15072669.net:8443/hls/pdiez3cpk4198.m3u8?s=xuavWLjlzix2P7EFbdTmkQ&e=1777223014
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sao Paulo vs Mirassol [18:02 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paderborn 07 vs FC Schalke 04 [18:04 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/mxpjkbo9xahma.m3u8?s=khJxd8qw-_2j_-3z0nDAKw&e=1777222937
+https://hh0d260q92fp.15072669.net:8443/hls/s426q9grik.m3u8?s=uhBq2eDzqw83p5OkO2LJXw&e=1777223021
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",River Plate vs Aldosivi [18:02 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sao Paulo vs Mirassol [18:04 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/mhbq0m7am17nhai.m3u8?s=HFAHa3BxVMxDfbidd-NeAQ&e=1777222944
+https://hh0d260q92fp.15072669.net:8443/hls/mxpjkbo9xahma.m3u8?s=74iChKryAsCSqaSK7iSY_w&e=1777223027
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",MotoGP vs MotoGP [18:02 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",River Plate vs Aldosivi [18:04 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=XxGPtwvpMngt6QaaTyRkG39mcMwRgR9uPq-hvZV1jtw&e=1777212149
+https://hh0d260q92fp.15072669.net:8443/hls/mhbq0m7am17nhai.m3u8?s=5Dr9hyXX-5RLr15b28sCyA&e=1777223033
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Fiorentina vs Sassuolo [18:02 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",MotoGP vs MotoGP [18:04 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=Mm2uM75-t5biQ0r1iKW_oal8UxoGLe0h1HmOPQZlnZE&e=1777212156
+https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?st=TjGC07Bi95ykG9O3cqMfYAjU_yP_VDcz1QjHo6X_V6M&e=1777212239
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Coventry City vs Wrexham [18:02 WIB 26/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Fiorentina vs Sassuolo [18:04 WIB 26/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/pdiez3cpk4198.m3u8?s=oOIg-f5xNiTHTEHrenT6_A&e=1777222963
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=cw6nAJARA63tcUNS7wiR0kAj6BufDy6glqDFoK-0Ye4&e=1777212245
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Coventry City vs Wrexham [18:04 WIB 26/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://hh0d260q92fp.15072669.net:8443/hls/pdiez3cpk4198.m3u8?s=MT-UjzWW2hHBxGBu88wRhw&e=1777223052
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paderborn 07 vs FC Schalke 04 [18:04 WIB 26/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://hh0d260q92fp.15072669.net:8443/hls/s426q9grik.m3u8?s=buXaxu7k-x_a0nJLpLvbAQ&e=1777223060
 
