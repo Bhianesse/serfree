@@ -1,40 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [23:15 WIB 27/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [23:18 WIB 27/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Zamalek vs ENPPI [23:15 WIB 27/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Fatih Karagümrük [23:18 WIB 27/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://n949rkq40t1l.54434687.net:8443/hls/6jr6f01p2.m3u8?s=-PoXP3h9JoAEKLUNWFpwFg&e=1777328259
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Zamalek vs ENPPI [23:18 WIB 27/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://fastly.live.brightcove.com/6386122937112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYxMjI5MzcxMTIifQ.HPPHHVyUxLnEyCqaO6AP7j1iCOBrMGE-zTe-7mV1-24/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cagliari vs Atalanta [23:15 WIB 27/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cagliari vs Atalanta [23:18 WIB 27/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://edgestreams.pro/hls/syaLqucEne4k.m3u8?st=dxxesFOnKjulCBFKWG-M7kf7fyNjNJonqZY_GkE5Vm0&e=1777317276
+https://edgestreams.pro/hls/syaLqucEne4k.m3u8?st=UylpmXDEwtpeSYf5wyNmqqQnz89TtT0HgCL_VfCJ3j8&e=1777317472
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Fatih Karagümrük [23:15 WIB 27/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Fatih Karagümrük [23:18 WIB 27/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/6jr6f01p2.m3u8?s=WZYJxojB0Otdx57Swc1GZw&e=1777328083
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Zamalek vs ENPPI [23:15 WIB 27/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://fastly.live.brightcove.com/6386122937112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODYxMjI5MzcxMTIifQ.HPPHHVyUxLnEyCqaO6AP7j1iCOBrMGE-zTe-7mV1-24/playlist-hls.m3u8
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cagliari vs Atalanta [23:15 WIB 27/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=kvMLxOKLacS6k2o4bhdurxTzVErhRZnxFOVBAWHgE2k&e=1777317297
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Fatih Karagümrük [23:15 WIB 27/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://egv630970h44.15072669.net:8443/hls/6jr6f01p2.m3u8?s=w8yPioHNx2xedyqJNCl0fA&e=1777328109
+https://n949rkq40t1l.54434687.net:8443/hls/6jr6f01p2.m3u8?s=I3WwAGMZbCcyfocvgfSnjw&e=1777328279
 
