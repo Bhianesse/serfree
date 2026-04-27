@@ -1,58 +1,52 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:35 WIB 28/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:38 WIB 28/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Manchester Utd vs Brentford [01:35 WIB 28/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Pyramids FC vs Al Ahly [01:38 WIB 28/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=1-0s_H-ktg6U7a4lfP7ri0pMM1rHJODHB5FaYO-dhPo&e=1777325665
+https://s3.us-east-1.amazonaws.com/simolive7/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Espanyol vs Levante [01:35 WIB 28/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cagliari vs Atalanta [01:38 WIB 28/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/377qj1h2727.m3u8?st=jN_wQIvBeXCXxEUSNaFs-IrrS4F4cziXo4iV7iS-9ZE&e=1777325673
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=dTVuiFT1TmPVDZ-sMEjSXy4wcw8hYBSS_-rRM1Vo3L4&e=1777325861
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Gil Vicente vs Casa Pia [01:35 WIB 28/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Fatih Karagümrük [01:38 WIB 28/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://n949rkq40t1l.54434687.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=jT-nboLVdB3ghT0ObYkIBw&e=1777336479
+https://k7h2hupk.58103793.net:8443/hls/6jr6f01p2.m3u8?s=I94G6fJp-nZ4AzkpjHHrMA&e=1777336668
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cagliari vs Atalanta [01:35 WIB 28/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Lazio vs Udinese [01:38 WIB 28/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=3IdUlSHVjMIOVQmrmVtGfBPr-HKgCRnXIS6tUyDOJtg&e=1777325701
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=0FPPZMviCN5knGxtro9K5rxhDkRERqVVyV1PbtMIQyQ&e=1777325873
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Fatih Karagümrük [01:35 WIB 28/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Pyramids FC vs Al Ahly [01:38 WIB 28/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://n949rkq40t1l.54434687.net:8443/hls/6jr6f01p2.m3u8?s=CNgrzYUoDxfM7F7NggD3yQ&e=1777336508
+https://s3.us-east-1.amazonaws.com/simolive7/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Lazio vs Udinese [01:35 WIB 28/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cagliari vs Atalanta [01:38 WIB 28/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=srGqJ0U8uC6vzJjjwvvH_g-51wMfI6IEsmMP9ZPanBw&e=1777325717
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=5BEhvmUxbI3UppxsoslqmQqDXHlTgYkgaXG9MDLmeWg&e=1777325884
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Manchester Utd vs Brentford [01:35 WIB 28/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Besiktas vs Fatih Karagümrük [01:38 WIB 28/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=Uh1wLU50NrIHk7sF_BpvJHHXLPkvWQfXB8i8ANxy-bU&e=1777325723
+https://k7h2hupk.58103793.net:8443/hls/6jr6f01p2.m3u8?s=P1UJ_UEbJDOq8SRszPalmw&e=1777336689
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Espanyol vs Levante [01:35 WIB 28/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Lazio vs Udinese [01:38 WIB 28/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/377qj1h2727.m3u8?st=J2KoGpholWiqreibusoX1ajV25OZ5i9_sSvFagAF5bM&e=1777325730
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Gil Vicente vs Casa Pia [01:35 WIB 28/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://n949rkq40t1l.54434687.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=U7zTxoInMDou3brZBotm1Q&e=1777336536
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=RhBRFzAmcCaRVn33ofqiJeF35zhLhXw5fO4V21vhAuk&e=1777325895
 
