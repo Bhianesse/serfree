@@ -1,40 +1,58 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [11:13 WIB 29/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [11:16 WIB 29/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sporting Cristal vs Junior [11:13 WIB 29/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Millonarios vs Sao Paulo [11:16 WIB 29/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5hh59iw6byp2.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=rBUFKRX0ZEZkIM5_ejvhuA&e=1777457586
+https://y4mpwzd7.12703830.net:8443/hls/57g57feq.m3u8?s=fD3FLaigNTfy3n2yEpqUog&e=1777457729
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",UCV vs Rosario Central [11:13 WIB 29/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Boca Juniors [11:16 WIB 29/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5hh59iw6byp2.54434687.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=47yPFVE4MKkah_fER9otgQ&e=1777457593
+https://y4mpwzd7.12703830.net:8443/hls/mhbq0m7am17nhai.m3u8?s=LhRLHOlxKlFE-5N-J3KFxg&e=1777457735
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Millonarios vs Sao Paulo [11:13 WIB 29/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Nashville SC vs Tigres UANL [11:16 WIB 29/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5hh59iw6byp2.54434687.net:8443/hls/57g57feq.m3u8?s=nIBZbwTwkPtZwMZrIggYyw&e=1777457601
+https://y4mpwzd7.12703830.net:8443/hls/6jr6f01p2.m3u8?s=0ciKtCpvGJYGucPD_64pKw&e=1777457741
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Boca Juniors [11:13 WIB 29/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sporting Cristal vs Junior [11:16 WIB 29/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5hh59iw6byp2.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=GWxw_Ljgr6II1jz_QMRKjg&e=1777457606
+https://y4mpwzd7.12703830.net:8443/hls/mhbq0m7am17nhai.m3u8?s=uZKgoGF7ggSmiAIu3-9Tcg&e=1777457746
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Nashville SC vs Tigres UANL [11:13 WIB 29/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",UCV vs Rosario Central [11:16 WIB 29/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5hh59iw6byp2.54434687.net:8443/hls/6jr6f01p2.m3u8?s=NjRkdgueopCszp8PfMK4DA&e=1777457614
+https://y4mpwzd7.12703830.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=h1ZWg1plxy10fYfZH4Q_KA&e=1777457752
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sporting Cristal vs Junior [11:13 WIB 29/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Millonarios vs Sao Paulo [11:16 WIB 29/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5hh59iw6byp2.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=9qvl5kBX_2EYKyF6fF1rJw&e=1777457619
+https://y4mpwzd7.12703830.net:8443/hls/57g57feq.m3u8?s=LBtq7FsbpDsd6gd3cFyuGg&e=1777457757
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Boca Juniors [11:16 WIB 29/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://y4mpwzd7.12703830.net:8443/hls/mhbq0m7am17nhai.m3u8?s=qFiso_GLiybHr6H1PTbgYQ&e=1777457762
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Nashville SC vs Tigres UANL [11:16 WIB 29/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://y4mpwzd7.12703830.net:8443/hls/6jr6f01p2.m3u8?s=5Ly4g0nwSGFFPoDiTUnkEg&e=1777457768
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sporting Cristal vs Junior [11:16 WIB 29/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://y4mpwzd7.12703830.net:8443/hls/mhbq0m7am17nhai.m3u8?s=Iw57zukMLSevLU5fH9IvUA&e=1777457773
 
