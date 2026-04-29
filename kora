@@ -1,52 +1,34 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [06:07 WIB 30/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [06:10 WIB 30/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Platense vs Santa Fe [06:07 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Caracas FC vs Racing Club [06:10 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=KfozDluzRu8lXSc5Nx4syA&e=1777525584
+https://96px249x.58103793.net:8443/hls/57g57feq.m3u8?s=69C1ke9gqvW0cTo_DV9grQ&e=1777525775
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Riestra vs Atletico Torque [06:07 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Mirassol vs Always Ready [06:10 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/2ov0r1.m3u8?s=wzHSG8HHuEJG4U3ynMcyMw&e=1777525591
+https://96px249x.58103793.net:8443/hls/6349ts7.m3u8?s=frqmWpLWKNq7xaRiFZkg7A&e=1777525781
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Caracas FC vs Racing Club [06:07 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Platense vs Santa Fe [06:10 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/57g57feq.m3u8?s=qYlII14-BnsDG8J3dNd9Pg&e=1777525597
+https://96px249x.58103793.net:8443/hls/mhbq0m7am17nhai.m3u8?s=d1bBLbsP6rk3P4SLGWQXQA&e=1777525787
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Mirassol vs Always Ready [06:07 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Riestra vs Atletico Torque [06:10 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/6349ts7.m3u8?s=AKWFfBhgWgqFj3R97glv5g&e=1777525603
+https://96px249x.58103793.net:8443/hls/2ov0r1.m3u8?s=xpmmHjvUdWxZBcN4k_pezw&e=1777525794
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Platense vs Santa Fe [06:07 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Caracas FC vs Racing Club [06:10 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=t8YGKu_zLipO-sBbGXDnxA&e=1777525608
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Riestra vs Atletico Torque [06:07 WIB 30/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/2ov0r1.m3u8?s=uH__ezEWTK6pFUFMnv_t8g&e=1777525614
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Caracas FC vs Racing Club [06:07 WIB 30/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/57g57feq.m3u8?s=yo3z6W-THAQmQyvbvHwL-g&e=1777525620
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Mirassol vs Always Ready [06:07 WIB 30/04/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/6349ts7.m3u8?s=YGO6ws-ILxrmctAxevSEMw&e=1777525626
+https://96px249x.58103793.net:8443/hls/57g57feq.m3u8?s=yaTte5Ran0sVlXS7k2SsMg&e=1777525800
 
