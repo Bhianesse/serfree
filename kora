@@ -1,52 +1,76 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [10:28 WIB 30/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [10:31 WIB 30/04/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Universitario vs Club Nacional [10:28 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Palestino vs Gremio [10:31 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://96px249x.58103793.net:8443/hls/mhbq0m7am17nhai.m3u8?s=l4NNhqVT-PNRAG41Fs7hrA&e=1777541279
+https://92vhjue8.39564828.net:8443/hls/hqwwgwycxiiy.m3u8?s=UMpshBHNeo36Pxf90QzhAg&e=1777541437
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Los Angeles FC vs Toluca [10:28 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Estudiantes L.P. vs Flamengo [10:31 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://96px249x.58103793.net:8443/hls/6jr6f01p2.m3u8?s=KRKh13ebbW2BHKew7JB22g&e=1777541285
+https://92vhjue8.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=t0921mN5NyIVeqRi4ABcjg&e=1777541443
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Palestino vs Gremio [10:28 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cerro Porteno vs Palmeiras [10:31 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://96px249x.58103793.net:8443/hls/hqwwgwycxiiy.m3u8?s=FMALR7z__83l1gJmbka2ow&e=1777541293
+https://92vhjue8.39564828.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=LT0E_clWFjEiZNSsBxxMdg&e=1777541449
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Estudiantes L.P. vs Flamengo [10:28 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cienciano vs Atletico-MG [10:31 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://96px249x.58103793.net:8443/hls/mhbq0m7am17nhai.m3u8?s=fj3XzDQwbcLrDpVDumbSsg&e=1777541299
+https://92vhjue8.39564828.net:8443/hls/mxpjkbo9xahma.m3u8?s=V6vVfctSGJS45PRong6x_g&e=1777541455
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cerro Porteno vs Palmeiras [10:28 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Universitario vs Club Nacional [10:31 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://96px249x.58103793.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=Gr83Fk7X-YiRI2_WKuIaoA&e=1777541305
+https://92vhjue8.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=pzxdFtzYGmqPfhsC8ogKQw&e=1777541460
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cienciano vs Atletico-MG [10:28 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Los Angeles FC vs Toluca [10:31 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://96px249x.58103793.net:8443/hls/mxpjkbo9xahma.m3u8?s=cY_ONPoz7dpg5dIt4ISPlQ&e=1777541311
+https://92vhjue8.39564828.net:8443/hls/6jr6f01p2.m3u8?s=FtNDOPe8n7dYcU1Y6rFT_Q&e=1777541466
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Universitario vs Club Nacional [10:28 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Palestino vs Gremio [10:31 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://96px249x.58103793.net:8443/hls/mhbq0m7am17nhai.m3u8?s=uX2Hz-yzTpcIyuDa4C-nDg&e=1777541316
+https://92vhjue8.39564828.net:8443/hls/hqwwgwycxiiy.m3u8?s=m6-XhcZfuBjTQXFJk9iw0w&e=1777541471
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Los Angeles FC vs Toluca [10:28 WIB 30/04/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Estudiantes L.P. vs Flamengo [10:31 WIB 30/04/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://96px249x.58103793.net:8443/hls/6jr6f01p2.m3u8?s=2ODa6ycEvjdT2ye4IRxkeA&e=1777541323
+https://92vhjue8.39564828.net:8443/hls/k13h15p8ue.m3u8?s=JPTyMv8IevGdCN4e6D1q9w&e=1777541477
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cerro Porteno vs Palmeiras [10:31 WIB 30/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://92vhjue8.39564828.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=JS-yGLPkWVE7remsBkRiyA&e=1777541483
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cienciano vs Atletico-MG [10:31 WIB 30/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://92vhjue8.39564828.net:8443/hls/mxpjkbo9xahma.m3u8?s=VGMBO_o4bhY0gcM2Ily0rA&e=1777541488
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Universitario vs Club Nacional [10:31 WIB 30/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://92vhjue8.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=2dzhhlGm4bz44DIoPj-epQ&e=1777541494
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Los Angeles FC vs Toluca [10:31 WIB 30/04/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://92vhjue8.39564828.net:8443/hls/6jr6f01p2.m3u8?s=RWeZECpw6z5ffxeE078brw&e=1777541500
 
