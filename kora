@@ -1,22 +1,40 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [06:08 WIB 01/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [06:12 WIB 01/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Club Bolivar vs Fluminense [06:08 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Club Bolivar vs Fluminense [06:12 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://2smh3wve.58103793.net:8443/hls/mhbq0m7am17nhai.m3u8?s=_uunbJbUpzbn72UkIqnyug&e=1777612054
+https://n949rkq40t1l.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=0v8GSc43k38Y-LJJ3Qvquw&e=1777612333
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Independ. Rivadavia vs Deportivo La Guaira [06:08 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Independ. Rivadavia vs Deportivo La Guaira [06:12 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://2smh3wve.58103793.net:8443/hls/2ov0r1.m3u8?s=5NIry2VyGz_SgscsBiyorg&e=1777612062
+https://n949rkq40t1l.54434687.net:8443/hls/2ov0r1.m3u8?s=Kh8c11ifQwpSbU-PdQHHuQ&e=1777612340
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Vasco DA Gama vs Olimpia [06:08 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Vasco DA Gama vs Olimpia [06:12 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://2smh3wve.58103793.net:8443/hls/4h80gffrr5803z.m3u8?s=HD9rFe1w6PcEPPg9BGQgtA&e=1777612121
+https://n949rkq40t1l.54434687.net:8443/hls/4h80gffrr5803z.m3u8?s=l6hr-0cMbX9H2eGxFEs76g&e=1777612346
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Club Bolivar vs Fluminense [06:12 WIB 01/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://n949rkq40t1l.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=ikamFAep_3NEI7MY5BrbBw&e=1777612353
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Independ. Rivadavia vs Deportivo La Guaira [06:12 WIB 01/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://n949rkq40t1l.54434687.net:8443/hls/2ov0r1.m3u8?s=wSrNyn28VTDj2S6lJqDLfw&e=1777612359
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Vasco DA Gama vs Olimpia [06:12 WIB 01/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://n949rkq40t1l.54434687.net:8443/hls/4h80gffrr5803z.m3u8?s=Q3EKKB6Hk55zZMsq8C4gFw&e=1777612364
 
