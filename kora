@@ -1,76 +1,40 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [07:43 WIB 01/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [07:46 WIB 01/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Club Bolivar vs Fluminense [07:43 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Corinthians vs Penarol [07:46 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=HCmfFCFzfRgmOYEDeycKcQ&e=1777617752
+https://5n7r9jbt.83870203.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=PpFP6_r-maqnFBrWZDegfQ&e=1777617937
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Independ. Rivadavia vs Deportivo La Guaira [07:43 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Velez Sarsfield vs Gimnasia Y Tiro [07:46 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/2ov0r1.m3u8?s=RCEKNzYkb09pGv6vcJ-0lQ&e=1777617758
+https://5n7r9jbt.83870203.net:8443/hls/qgdzborpo.m3u8?s=62iDFaHluabG48ipBa0-lQ&e=1777617943
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Vasco DA Gama vs Olimpia [07:43 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",RB Bragantino vs River Plate [07:46 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/4h80gffrr5803z.m3u8?s=OOodgN4_kiEL4FJjlY4ZAw&e=1777617763
+https://5n7r9jbt.83870203.net:8443/hls/k13h15p8ue.m3u8?s=iZn6nLY7FATmyMU3YbiApw&e=1777617948
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Corinthians vs Penarol [07:43 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Corinthians vs Penarol [07:46 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=rRXlkny9bu1e80Z8QwKCTA&e=1777617768
+https://5n7r9jbt.83870203.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=rQ7-HApKUpaEut3xjEEVTw&e=1777617954
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Velez Sarsfield vs Gimnasia Y Tiro [07:43 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Velez Sarsfield vs Gimnasia Y Tiro [07:46 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/qgdzborpo.m3u8?s=OhoH-KV1l_9tnPT7uAtMJw&e=1777617774
+https://5n7r9jbt.83870203.net:8443/hls/qgdzborpo.m3u8?s=Utiih2e9QMKV-sfjGKfvYA&e=1777617959
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",RB Bragantino vs River Plate [07:43 WIB 01/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",RB Bragantino vs River Plate [07:46 WIB 01/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=r2SUkxT431pHWS-C29JJ1g&e=1777617779
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Club Bolivar vs Fluminense [07:43 WIB 01/05/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=Cy9E_NyTW0vDPEgC-8HgpA&e=1777617785
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Independ. Rivadavia vs Deportivo La Guaira [07:43 WIB 01/05/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/2ov0r1.m3u8?s=ZK5Vl0uRlRa_NKTThiUYrQ&e=1777617791
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Vasco DA Gama vs Olimpia [07:43 WIB 01/05/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/4h80gffrr5803z.m3u8?s=o7S0fsvuucnAbEGpA_11PQ&e=1777617796
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Corinthians vs Penarol [07:43 WIB 01/05/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=SNiHpZChOaw64LwPFXR9lg&e=1777617801
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Velez Sarsfield vs Gimnasia Y Tiro [07:43 WIB 01/05/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/qgdzborpo.m3u8?s=nn711e54abyft5AtExYCUQ&e=1777617807
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",RB Bragantino vs River Plate [07:43 WIB 01/05/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://d8vgvfuq.39564828.net:8443/hls/mhbq0m7am17nhai.m3u8?s=TEr4KubEhDhM10G7cYNKVQ&e=1777617813
+https://5n7r9jbt.83870203.net:8443/hls/mhbq0m7am17nhai.m3u8?s=kKltdTx674Go6qaHgIBuxg&e=1777617964
 
