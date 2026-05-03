@@ -1,22 +1,46 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [17:51 WIB 03/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [17:52 WIB 03/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Bologna vs Cagliari [17:51 WIB 03/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Bologna vs Cagliari [17:52 WIB 03/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=dR7OZJZNmN4wxBggLPj3P70ZhMZhZZ8PBLpn9dKtmTc&e=1777816276
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=CiQRED1s2Hcftq7s_gDV36DTtTQ0PAlMfWRhF4LPHYs&e=1777816339
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Atletico-MG [17:51 WIB 03/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Manchester City W vs Liverpool W [17:52 WIB 03/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://cqr2aqt6.58103793.net:8443/hls/qyuasy56q.m3u8?s=k5Mi2pvGJ-z5Wo9W6MzZqg&e=1777827083
+https://d8vgvfuq.39564828.net:8443/hls/57g57feq.m3u8?s=BnuFPp59xWsAOrsOoSXjsg&e=1777827145
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Bologna vs Cagliari [17:51 WIB 03/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Hibernian vs Celtic [17:52 WIB 03/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=d9Y8_X8Em13C2FHLWhP0PuTtjOslrg6O7VfFgl7qZ5M&e=1777816288
+https://d8vgvfuq.39564828.net:8443/hls/pdiez3cpk4198.m3u8?s=yLPzJyqbWmJaLiogz87wtw&e=1777827151
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Atletico-MG [17:52 WIB 03/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://d8vgvfuq.39564828.net:8443/hls/qyuasy56q.m3u8?s=DeP5ekqipEuxAeaRJlLkug&e=1777827156
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Bologna vs Cagliari [17:52 WIB 03/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=WSen6Vp4VtG1jxYaxGWjqKCiOed0C79NEANz5d_-VuY&e=1777816362
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Manchester City W vs Liverpool W [17:52 WIB 03/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://d8vgvfuq.39564828.net:8443/hls/57g57feq.m3u8?s=6F7tXyR8-AgXhfPpvd_fOg&e=1777827167
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Hibernian vs Celtic [17:52 WIB 03/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://d8vgvfuq.39564828.net:8443/hls/pdiez3cpk4198.m3u8?s=rIOhOQLWHGDkZVw9Fzp88w&e=1777827173
 
