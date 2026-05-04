@@ -1,28 +1,40 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [00:59 WIB 05/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:02 WIB 05/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cremonese vs Lazio [00:59 WIB 05/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cremonese vs Lazio [01:02 WIB 05/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=lbsUZLLHjALsCBs65KZDrLxpPAgB98a254c6QGUHVeo&e=1777928322
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=IwlLkZZVrD4ljyB5J3yHgQM1btoStutV_LkrpdFSebA&e=1777928504
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Hearts vs Rangers [00:59 WIB 05/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Hearts vs Rangers [01:02 WIB 05/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://b84gdva8.39564828.net:8443/hls/pdiez3cpk4198.m3u8?s=tkst9aMNihDijFnNerMjxQ&e=1777939128
+https://n949rkq40t1l.54434687.net:8443/hls/pdiez3cpk4198.m3u8?s=YaPZbmoNO9pSl9TxLCQNOA&e=1777939312
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cremonese vs Lazio [00:59 WIB 05/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Everton vs Manchester City [01:02 WIB 05/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=qcanSA45QMQP0XzvVJwDfGr2b_AYAa_xHd7jHQb7qMY&e=1777928336
+https://storage.googleapis.com/puytuyhoitrewr1/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Hearts vs Rangers [00:59 WIB 05/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cremonese vs Lazio [01:02 WIB 05/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://b84gdva8.39564828.net:8443/hls/pdiez3cpk4198.m3u8?s=jeVITzM4oDCPLPb2VVV_-A&e=1777939142
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=HvE8Vq02xRO-ESNbZ8xCW-9cdpGfayIetWoYR2GExHA&e=1777928527
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Hearts vs Rangers [01:02 WIB 05/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://n949rkq40t1l.54434687.net:8443/hls/pdiez3cpk4198.m3u8?s=eaH8ZxXlxyI_EXOvivfLCQ&e=1777939336
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Everton vs Manchester City [01:02 WIB 05/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://storage.googleapis.com/puytuyhoitrewr1/mux_video_ts1/index-1.m3u8
 
