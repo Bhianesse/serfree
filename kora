@@ -1,22 +1,34 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [09:49 WIB 06/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [09:51 WIB 06/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Barcelona SC vs Boca Juniors [09:49 WIB 06/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Recoleta vs Santos [09:51 WIB 06/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=KhHTf7kHj2N6y3N_zk8Ozw&e=1778057332
+https://8nwwqrar.12703830.net:8443/hls/57g57feq.m3u8?s=nJ9E7KEYenBgyTyxccs8tQ&e=1778057458
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Recoleta vs Santos [09:49 WIB 06/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Cuenca vs San Lorenzo [09:51 WIB 06/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/57g57feq.m3u8?s=EXydwSPe45Neu3gUVBAjxg&e=1778057338
+https://8nwwqrar.12703830.net:8443/hls/mhbq0m7am17nhai.m3u8?s=gKKeOPuh-7v60grUJw6hsA&e=1778057464
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Cuenca vs San Lorenzo [09:49 WIB 06/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Barcelona SC vs Boca Juniors [09:51 WIB 06/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/mhbq0m7am17nhai.m3u8?s=a2q0UFNrj8h31Kezjg8g5Q&e=1778057344
+https://8nwwqrar.12703830.net:8443/hls/kw6ef0n921mnbf0.m3u8?s=WB6ZR56eTkn6_6ut344C_w&e=1778057470
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Recoleta vs Santos [09:51 WIB 06/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://8nwwqrar.12703830.net:8443/hls/57g57feq.m3u8?s=BadmP5hkY94nF_EiOu6NMg&e=1778057476
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Deportivo Cuenca vs San Lorenzo [09:51 WIB 06/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://8nwwqrar.12703830.net:8443/hls/mhbq0m7am17nhai.m3u8?s=r7l_W5sR7Kqf8nWhcOba_g&e=1778057481
 
