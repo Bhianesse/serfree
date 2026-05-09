@@ -1,64 +1,76 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:53 WIB 10/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:59 WIB 10/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Lecce vs Juventus [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Lecce vs Juventus [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://storage.googleapis.com/unicertyngher2/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",USM Alger vs Zamalek [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",USM Alger vs Zamalek [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://s3.us-east-1.amazonaws.com/46.xxxw2/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Coritiba vs Internacional [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Raja Club Athletic vs Wydad Athletic Club [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://6g4q11n3wstw.54434687.net:8443/hls/5scc4bokb55pp.m3u8?s=R23Vg1Ndyv4AYVw2ZxmRKQ&e=1778377906
+https://token.easybroadcast.io/all?url=https%3A%2F%2Fcdn.live.easybroadcast.io%2Fabr_corp%2F73_arryadia_k2tgcj0%2Fplaylist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Sociedad vs Real Betis [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Coritiba vs Internacional [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://edgestreams.pro/hls/377qj1h2727.m3u8?st=hFpNlYJm9TNR0n5EpbvLzAmzoNUPvzxLgjXppdKspSc&e=1778367114
+https://6g4q11n3wstw.54434687.net:8443/hls/5scc4bokb55pp.m3u8?s=pNl_4PeslvDJIzftXjScOA&e=1778378287
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Motherwell vs Hearts [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Sociedad vs Real Betis [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://6g4q11n3wstw.54434687.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=ofET-J48rzB2dFXXw6qAFQ&e=1778377924
+https://edgestreams.pro/hls/377qj1h2727.m3u8?st=-AQtKAF4e0349gfAfQCYCgocg6ao4D-GlIdmQorLPgw&e=1778367494
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Lecce vs Juventus [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Motherwell vs Hearts [02:59 WIB 10/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://6g4q11n3wstw.54434687.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=61LOUttaqoZcNiH2YTEIJw&e=1778378305
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Lecce vs Juventus [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://storage.googleapis.com/unicertyngher2/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",USM Alger vs Zamalek [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",USM Alger vs Zamalek [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://s3.us-east-1.amazonaws.com/46.xxxw2/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Coritiba vs Internacional [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Raja Club Athletic vs Wydad Athletic Club [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://6g4q11n3wstw.54434687.net:8443/hls/5scc4bokb55pp.m3u8?s=T8eF90BZ8x6jYKokWuWJvQ&e=1778377962
+https://token.easybroadcast.io/all?url=https%3A%2F%2Fcdn.live.easybroadcast.io%2Fabr_corp%2F73_arryadia_k2tgcj0%2Fplaylist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Sociedad vs Real Betis [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Coritiba vs Internacional [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://edgestreams.pro/hls/377qj1h2727.m3u8?st=wzMuVatUTkSUF649QSC-dtEM0Aoos_Dz0oxkdsOOxCg&e=1778367170
+https://6g4q11n3wstw.54434687.net:8443/hls/5scc4bokb55pp.m3u8?s=Rc4nDg4fyuIrQvacgV8Jfw&e=1778378336
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Motherwell vs Hearts [02:53 WIB 10/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Sociedad vs Real Betis [02:59 WIB 10/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://6g4q11n3wstw.54434687.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=BSr22UCpB5ZJe6rkZ6T8-Q&e=1778377978
+https://mainstreams.pro/hls/377qj1h2727.m3u8?st=FDoC1kmOejNTuUPbLwEQNyDO2s2-UoT5ioV93x26MmY&e=1778367543
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Motherwell vs Hearts [02:59 WIB 10/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://6g4q11n3wstw.54434687.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=2vT0i2Fg0t3s1S6EK9zveg&e=1778378353
 
