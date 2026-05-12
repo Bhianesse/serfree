@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [05:23 WIB 13/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [05:25 WIB 13/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Internacional vs Athletic Club [05:23 WIB 13/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Osasuna vs Atletico Madrid [05:25 WIB 13/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/hojj5703cm0v2.m3u8?s=enaiFHtetD2pFRIDTFBTHw&e=1778646201
+https://d8vgvfuq.39564828.net:8443/hls/yxttqyj4clmux.m3u8?s=dBx7YpCzrNpDGAlhMq1Wag&e=1778646325
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Internacional vs Athletic Club [05:23 WIB 13/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Internacional vs Athletic Club [05:25 WIB 13/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/hojj5703cm0v2.m3u8?s=BK-U_xVrwW7ViN4RYnV_0A&e=1778646208
+https://d8vgvfuq.39564828.net:8443/hls/hojj5703cm0v2.m3u8?s=2E8VN8Ee6MDZqgujzeIvxw&e=1778646333
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Osasuna vs Atletico Madrid [05:25 WIB 13/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://d8vgvfuq.39564828.net:8443/hls/yxttqyj4clmux.m3u8?s=exoOW3RPilvzhHt9JKWVqA&e=1778646341
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Internacional vs Athletic Club [05:25 WIB 13/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://d8vgvfuq.39564828.net:8443/hls/hojj5703cm0v2.m3u8?s=LJzbHBisUtA2MSPg9CBv8A&e=1778646348
 
