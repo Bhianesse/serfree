@@ -1,22 +1,40 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [04:02 WIB 13/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [04:05 WIB 13/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Southampton vs Middlesbrough [04:02 WIB 13/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Southampton vs Middlesbrough [04:05 WIB 13/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://b84gdva8.39564828.net:8443/hls/twoonydindfqa.m3u8?s=QIld_s1xEy_EN34WJ3N1Yw&e=1778641320
+https://gt7gapsu.39564828.net:8443/hls/twoonydindfqa.m3u8?s=VXjKsZy2YMaGBw1J4MHpvA&e=1778641464
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",RED Star FC 93 vs Rodez [04:02 WIB 13/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",RED Star FC 93 vs Rodez [04:05 WIB 13/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/dza5z8f69.m3u8?st=VRc2ee-MTA5HJxr0KGtwoD_j79sXiVy2Vm8f89xxWFU&e=1778630527
+https://mainstreams.pro/hls/dza5z8f69.m3u8?st=M_XY9aQJNYRMSNuT8DHCHqZCqThHacRkw66fcqnThWA&e=1778630671
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Osasuna vs Atletico Madrid [04:02 WIB 13/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Osasuna vs Atletico Madrid [04:05 WIB 13/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://b84gdva8.39564828.net:8443/hls/yxttqyj4clmux.m3u8?s=N5fWZNOxu0e7VRl9inOqTw&e=1778641334
+https://gt7gapsu.39564828.net:8443/hls/yxttqyj4clmux.m3u8?s=mYvWwU8Z5W6vhpY8XS6O2A&e=1778641477
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Southampton vs Middlesbrough [04:05 WIB 13/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/twoonydindfqa.m3u8?s=kkKUaqaZALatSWUJzV2PAw&e=1778641484
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",RED Star FC 93 vs Rodez [04:05 WIB 13/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/dza5z8f69.m3u8?st=wt4xBdB7pmXNFV-jd4-l0IdJR1Pd6SQCPcqKveVp6tE&e=1778630690
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Osasuna vs Atletico Madrid [04:05 WIB 13/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/yxttqyj4clmux.m3u8?s=KFapryyxqNlh_OahxVoFxw&e=1778641496
 
