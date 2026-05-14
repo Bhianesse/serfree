@@ -1,28 +1,52 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:05 WIB 15/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:08 WIB 15/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Valencia vs Rayo Vallecano [01:05 WIB 15/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",US Ben Guerdane vs Esperance Tunis [01:08 WIB 15/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://h4kuqqzp.39564828.net:8443/hls/yxttqyj4clmux.m3u8?s=d8an0AXgFDZxXSa3WQ-WGA&e=1778803516
+https://s3.eu-north-1.amazonaws.com/46.xxxww6/hls/1/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Real Sociedad [01:05 WIB 15/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Club Africain vs Olympique Beja [01:08 WIB 15/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=DRfvuGY4EtowRqTN29bs-woDMbuJL9zxIXAaH-l1cNc&e=1778792722
+https://liveeu-gcp.alkassdigital.net/alkass2-p/20260504T005713Z/mux_video_720p_ts/index-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Valencia vs Rayo Vallecano [01:05 WIB 15/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",CS Sfaxien vs ES Sahel [01:08 WIB 15/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://h4kuqqzp.39564828.net:8443/hls/yxttqyj4clmux.m3u8?s=Xv7-L01VZm19qwVkzjd4ew&e=1778803532
+https://customer-esmmbutwjl5sqg57.cloudflarestream.com/fd111847701f7a955a7b46962d2a87cd/manifest/video.m3u8?parentOrigin=https%3A%2F%2Ftlive.be4stream.top
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Real Sociedad [01:05 WIB 15/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",ES Metlaoui vs JS Kairouanaise [01:08 WIB 15/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=yf8wnfwltOHkeDQoZrdDa4Dcln4yPAq5XeMSKqJFNkU&e=1778792739
+https://customer-esmmbutwjl5sqg57.cloudflarestream.com/90f5e53b9c4ad3bb5521d7143ffdb75d/manifest/video.m3u8?parentOrigin=https%3A%2F%2Ftlive.be4stream.top
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Valencia vs Rayo Vallecano [01:08 WIB 15/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://y44kn4nu.83870203.net:8443/hls/yxttqyj4clmux.m3u8?s=j7XiEngK77RpvaNDjGT8Og&e=1778803705
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Real Sociedad [01:08 WIB 15/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=mq8wK-hS8lBEh-mtdj3XBmyT1DifNV5OafxdH0Y-Nmw&e=1778792912
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Valencia vs Rayo Vallecano [01:08 WIB 15/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://y44kn4nu.83870203.net:8443/hls/yxttqyj4clmux.m3u8?s=TgPHfD-qmVkgDvkmqVIsKA&e=1778803723
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Real Sociedad [01:08 WIB 15/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=gvqqaqLqf8EsT38I_s8w-f9DIsN88Hg6Keq--Re4e0o&e=1778792930
 
