@@ -1,22 +1,70 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [17:41 WIB 17/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [17:44 WIB 17/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roma vs Lazio [17:41 WIB 17/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roma vs Lazio [17:44 WIB 17/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=tnPIfC2WcJ0b35EJquC2uEJJnI4b4lXmBroD_eUUdr8&e=1779025264
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=DZCjfmFJJDjixh4Zs-AtuwGp0acuiAnFK3yKFgUD7QA&e=1779025387
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Palmeiras vs Cruzeiro [17:41 WIB 17/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Milan [17:44 WIB 17/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://sea3mr6j.83870203.net:8443/hls/twoonyqicok5y.m3u8?s=D9vHrX0j8nDUjXPIoe3sKA&e=1779036071
+https://mainstreams.pro/hls/2rB5nTKlP8mE.m3u8?st=4ZrB_ZapVB_NeDQxwflkKwGFrWa7wh1U9_BlqX5HVmk&e=1779025394
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roma vs Lazio [17:41 WIB 17/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Juventus vs Fiorentina [17:44 WIB 17/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://mainstreams.pro/hls/griogoehvn2.m3u8?st=GctvBu8pH5il9WL6o6XlmNuiPClkiG7efudc2GClkkY&e=1779025278
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=IiQ9XmCnasMclw09-tAp-5725mT1WrLD8qKRrZKFhCw&e=1779025401
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Pisa vs Napoli [17:44 WIB 17/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://htq43xdc.12703830.net:8443/hls/z700mrpx530rp.m3u8?s=hPKcyVKvaw3PuUNPGvLdyg&e=1779036209
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Como vs Parma [17:44 WIB 17/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://htq43xdc.12703830.net:8443/hls/o9mmstuhtgqjq.m3u8?s=qOZNOcbWRrnVPZQyoC3SQA&e=1779036215
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Palmeiras vs Cruzeiro [17:44 WIB 17/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://htq43xdc.12703830.net:8443/hls/twoonyqicok5y.m3u8?s=qI6Vhcm56QKry1Pc2jv-BA&e=1779036222
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roma vs Lazio [17:44 WIB 17/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/griogoehvn2.m3u8?st=psvpAm8jk9sC8O4mwSZuqNUhTPbpCnLamRX0hawudfA&e=1779025428
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Milan [17:44 WIB 17/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/2rB5nTKlP8mE.m3u8?st=otRa_SNesaXp6A20Enq8UiCZIMFt_-PoyEkQ8r9Dl8M&e=1779025434
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Juventus vs Fiorentina [17:44 WIB 17/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://mainstreams.pro/hls/syaLqucEne4k.m3u8?st=grlkHR940J-pZU7akuj_x8RbDzeLak5WRV7Hp9Fp0Mc&e=1779025441
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Pisa vs Napoli [17:44 WIB 17/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://htq43xdc.12703830.net:8443/hls/z700mrpx530rp.m3u8?s=Z9Fo1PfA3igSbIew4YzJ8g&e=1779036249
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Como vs Parma [17:44 WIB 17/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://htq43xdc.12703830.net:8443/hls/o9mmstuhtgqjq.m3u8?s=qBGiFd6Qkef0o5tce-WZpg&e=1779036256
 
