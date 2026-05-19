@@ -1,22 +1,52 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [06:03 WIB 20/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [06:07 WIB 20/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Fluminense vs Club Bolivar [06:03 WIB 20/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rosario Central vs UCV [06:07 WIB 20/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/z700mrpx530rp.m3u8?s=XQdOfL7ArXZOqtfsEKyWTw&e=1779253315
+https://gt7gapsu.39564828.net:8443/hls/pq11l3p9wvhy.m3u8?s=fjMmsS6Jx4b51Dy4sDCuYA&e=1779253528
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rosario Central vs UCV [06:03 WIB 20/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Fluminense vs Club Bolivar [06:07 WIB 20/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/pq11l3p9wvhy.m3u8?s=qb_mZaLKBcHmKfhoTpK3Og&e=1779253346
+https://gt7gapsu.39564828.net:8443/hls/9pbbu39owf6b9.m3u8?s=OXeux2BKVZprLilu2AtV_w&e=1779253537
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",A. Italiano vs Barracas Central [06:03 WIB 20/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",A. Italiano vs Barracas Central [06:07 WIB 20/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://5n7r9jbt.83870203.net:8443/hls/cd88is8arjavh.m3u8?s=lwNFMIHII0OymJGEOWh-iA&e=1779253380
+https://gt7gapsu.39564828.net:8443/hls/cd88is8arjavh.m3u8?s=3D5P6dijVEswakf9_MsMKA&e=1779253546
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Always Ready vs Mirassol [06:07 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/cd88is8arjavh.m3u8?s=dxUnzsp38gJmh-hN56T4og&e=1779253554
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Santa Fe vs Platense [06:07 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/ithh1r57ze1sq.m3u8?s=1QLa8AqPMb_o20u-yiPvtw&e=1779253567
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",A. Italiano vs Barracas Central [06:07 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/cd88is8arjavh.m3u8?s=B9gSukhddsG20QCaGC1xXw&e=1779253607
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Always Ready vs Mirassol [06:07 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/cd88is8arjavh.m3u8?s=2JKZ9M2BgauQFsQcfHnPIA&e=1779253615
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Santa Fe vs Platense [06:07 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/ithh1r57ze1sq.m3u8?s=ODPjvZQHi3e2aV-hZmMwqw&e=1779253626
 
