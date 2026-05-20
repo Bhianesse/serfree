@@ -1,16 +1,40 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [22:28 WIB 20/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [22:34 WIB 20/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Always Ready vs Mirassol [22:28 WIB 20/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Always Ready vs Mirassol [22:34 WIB 20/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://210e05a2x1ew.15072669.net:8443/hls/cd88is8arjavh.m3u8?s=Xmrn-srGbnJlgyRSGE6nFw&e=1779312439
+https://gt7gapsu.39564828.net:8443/hls/cd88is8arjavh.m3u8?s=TKq54TUmq2IFhg-XEsyngQ&e=1779312810
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Boca Juniors vs Cruzeiro [22:28 WIB 20/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Santa Fe vs Platense [22:34 WIB 20/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://210e05a2x1ew.15072669.net:8443/hls/z700mrpx530rp.m3u8?s=UKXIIOjFmiL1J-QsgLvc7A&e=1779312487
+https://gt7gapsu.39564828.net:8443/hls/ithh1r57ze1sq.m3u8?s=zPT0QR_Ipvf42eCq9BFctg&e=1779312817
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sao Paulo vs Millonarios [22:34 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/fkll6msedddff.m3u8?s=La-bzvzFhA4bvWxLJcU4Dw&e=1779312826
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Boca Juniors vs Cruzeiro [22:34 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/9pbbu39owf6b9.m3u8?s=WmOIJZ_YzWiyWvCEmTUVCQ&e=1779312834
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",America de Cali vs Tigre [22:34 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/9pbbu39owf6b9.m3u8?s=jH7990GaCJjPoLJZCMaJiA&e=1779312846
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Independiente del Valle vs Libertad Asuncion [22:34 WIB 20/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://gt7gapsu.39564828.net:8443/hls/ithh1r57ze1sq.m3u8?s=evWcCQH8Q-KJpgyxfzyzJw&e=1779312856
 
