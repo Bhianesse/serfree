@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [00:20 WIB 31/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [00:22 WIB 31/05/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paris Saint-Germain vs Arsenal [00:20 WIB 31/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paris Saint-Germain vs Arsenal [00:22 WIB 31/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?st=UgmDxMyBfZY2iiHIGucR29XKr3BKMW7mPZ0gKpemrPU&e=1780172403
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=UfabgsvwV6DGiPbgsKFeqBPD36LhKhCGEodIATZEsSA&e=1780172540
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paris Saint-Germain vs Arsenal [00:20 WIB 31/05/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roland garros vs Roland garros [00:22 WIB 31/05/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=zd_Z-65aerkTS_V7pbJTuEBtHjqdYVyEU0N1h3AZiSg&e=1780172424
+https://92vhjue8.39564828.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=aTAo3hyQWLdDu-E19zPRog&e=1780183345
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Paris Saint-Germain vs Arsenal [00:22 WIB 31/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?st=ako8uafj1X0IFFpoCIqmMVmJAwOWX_6Y8iY_K0DYaSs&e=1780172551
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roland garros vs Roland garros [00:22 WIB 31/05/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://92vhjue8.39564828.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=KWyI1IaEao-ur2T-DUSaHA&e=1780183362
 
