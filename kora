@@ -1,22 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [08:51 WIB 01/06/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [08:53 WIB 01/06/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Fluminense [08:51 WIB 01/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Fluminense [08:53 WIB 01/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/9pbbutio8s14v.m3u8?s=khdv6JuZjujDt0n2bcLIGQ&e=1780300262
+https://d8vgvfuq.39564828.net:8443/hls/9pbbutio8s14v.m3u8?s=QmL8jXDsqRD3hT43ZsbyrA&e=1780300407
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Fluminense [08:51 WIB 01/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",remo vs Sao Paulo [08:53 WIB 01/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/9pbbutio8s14v.m3u8?s=stiCCMHx7-O5cAifNRQfiw&e=1780300285
+https://d8vgvfuq.39564828.net:8443/hls/hojj5703cm0v2.m3u8?s=cW9L3gA8I5_vDoVnu0h5Fg&e=1780300413
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",remo vs Sao Paulo [08:51 WIB 01/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Cruzeiro vs Fluminense [08:53 WIB 01/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://14xaf7b749uz.54434687.net:8443/hls/hojj5703cm0v2.m3u8?s=5xK8b4M0JI5txhmf52SD5A&e=1780300291
+https://d8vgvfuq.39564828.net:8443/hls/9pbbutio8s14v.m3u8?s=qXhPCePOrgEpg4roWPsWug&e=1780300420
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",remo vs Sao Paulo [08:53 WIB 01/06/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://d8vgvfuq.39564828.net:8443/hls/hojj5703cm0v2.m3u8?s=FpDTDDR-3KcfqEPtrLFc9Q&e=1780300426
 
