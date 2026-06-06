@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [21:23 WIB 06/06/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [21:25 WIB 06/06/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Armenia vs Kazakhstan [21:23 WIB 06/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roland garros vs Roland garros [21:25 WIB 06/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://n949rkq40t1l.54434687.net:8443/hls/acgg75tlvrxeh.m3u8?s=W0jogdlZxYlaoyk4i4YpOg&e=1780777396
+https://hh0d260q92fp.15072669.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=78rQ5_QdP4zOG4rzpeYejQ&e=1780777522
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Armenia vs Kazakhstan [21:23 WIB 06/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Armenia vs Kazakhstan [21:25 WIB 06/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://n949rkq40t1l.54434687.net:8443/hls/acgg75tlvrxeh.m3u8?s=17_BxEdmfCvYPgGZNQpyqQ&e=1780777402
+https://hh0d260q92fp.15072669.net:8443/hls/acgg75tlvrxeh.m3u8?s=4Ugq-1YLRg7b3Z2YKVwsWg&e=1780777528
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roland garros vs Roland garros [21:25 WIB 06/06/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://hh0d260q92fp.15072669.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=5Tv8VqF7PuAMzyMgc02Wnw&e=1780777534
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Armenia vs Kazakhstan [21:25 WIB 06/06/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://hh0d260q92fp.15072669.net:8443/hls/acgg75tlvrxeh.m3u8?s=Pogu54nYimem_mig2BgAIg&e=1780777542
 
