@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:03 WIB 10/06/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:05 WIB 10/06/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Russia vs Trinidad and Tobago [01:03 WIB 10/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Armenia vs Moldova [01:05 WIB 10/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://o7a4799avkmu.15072669.net:8443/hls/ithh1xe7c01n2.m3u8?s=hYgjAOtYYz54qJNAgO-X6A&e=1781049769
+https://hlx6u7oh24us.09193519.net:8443/hls/hojj5703cm0v2.m3u8?s=mpp0ozd1lZ5aa7ghtAMHJg&e=1781049898
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Russia vs Trinidad and Tobago [01:03 WIB 10/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Tajikistan vs India [01:05 WIB 10/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://o7a4799avkmu.15072669.net:8443/hls/ithh1xe7c01n2.m3u8?s=_aC3r6oOeMsAmbAWbhGfcA&e=1781049777
+https://hlx6u7oh24us.09193519.net:8443/hls/9pbbu39owf6b9.m3u8?s=cXeoIdqhtFFU1VXV_hK9aw&e=1781049905
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",DR Congo vs Chile [01:05 WIB 10/06/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://hlx6u7oh24us.09193519.net:8443/hls/nessgjp115wr8.m3u8?s=AZZAWmFW6kj7Jz-6jDiKcg&e=1781049910
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Russia vs Trinidad and Tobago [01:05 WIB 10/06/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://hlx6u7oh24us.09193519.net:8443/hls/ithh1xe7c01n2.m3u8?s=aYSwcYsEcDV43XxxpLN2jw&e=1781049916
 
