@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [11:42 WIB 28/06/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [11:43 WIB 28/06/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Algeria vs Austria [11:42 WIB 28/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Algeria vs Austria [11:43 WIB 28/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://61t9ypekvvdc.09193519.net:8443/hls/2vrrwa6dke0c2.m3u8?s=xvT553UAEgOSNS3WVhjPtA&e=1782643328
+https://1vu989rlt6rp.15072669.net:8443/hls/9pbbu39owf6b9.m3u8?s=ta4527PEax4N8mSCNrFGHQ&e=1782643390
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Jordan vs Argentina [11:42 WIB 28/06/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Jordan vs Argentina [11:43 WIB 28/06/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://61t9ypekvvdc.09193519.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=Em0UD6H7parZeeRkhH8AXQ&e=1782643335
+https://1vu989rlt6rp.15072669.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=Dkr5NvSqyN5sTCnQMUmHTw&e=1782643398
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Algeria vs Austria [11:43 WIB 28/06/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://1vu989rlt6rp.15072669.net:8443/hls/9pbbu39owf6b9.m3u8?s=yzpnghy4Bjy_SxJQwPzmaA&e=1782643405
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Jordan vs Argentina [11:43 WIB 28/06/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://1vu989rlt6rp.15072669.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=1XEbp8pKd6HZ5wsMX0b__g&e=1782643412
 
