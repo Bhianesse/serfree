@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:29 WIB 05/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:31 WIB 05/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Canada vs Morocco [01:29 WIB 05/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Canada vs Morocco [01:31 WIB 05/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://1vu989rlt6rp.15072669.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=vb70lw-6muRm_9kNnateJA&e=1783211344
+https://1vu989rlt6rp.15072669.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=KXHBoDOITIroNzF5sXDNNA&e=1783211460
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Canada vs Morocco [01:29 WIB 05/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Formula 1 vs Formula 1 [01:31 WIB 05/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://1vu989rlt6rp.15072669.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=AryLOFfDwDC0_V1EH7ST5g&e=1783211351
+https://1vu989rlt6rp.15072669.net:8443/hls/ithh1xe7c01n2.m3u8?s=-NxsyrwC3kqke2orMiF-7Q&e=1783211466
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Canada vs Morocco [01:31 WIB 05/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://1vu989rlt6rp.15072669.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=5FESr3m-xFvG5HUQP6te4Q&e=1783211473
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Formula 1 vs Formula 1 [01:31 WIB 05/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://1vu989rlt6rp.15072669.net:8443/hls/ithh1xe7c01n2.m3u8?s=B4UYYzZ2EBCF1Ocn5GPXPQ&e=1783211478
 
