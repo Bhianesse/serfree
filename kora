@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [22:53 WIB 08/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [22:55 WIB 08/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Wimbledon vs Wimbledon [22:53 WIB 08/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Wimbledon vs Wimbledon [22:55 WIB 08/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://4v72m4af45j3.48552462.net:8443/hls/suddyn15kb5wj.m3u8?s=fLrxMlIEz606bO58u4VILw&e=1783547620
+https://52mjmy1262pb.48552462.net:8443/hls/suddyn15kb5wj.m3u8?s=fzoctl9lXPu2JTwlqPiokA&e=1783547736
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Wimbledon vs Wimbledon [22:53 WIB 08/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Olympiacos vs Rakow Czestochowa [22:55 WIB 08/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://4v72m4af45j3.48552462.net:8443/hls/suddyn15kb5wj.m3u8?s=rNw_HNhZQmh5uLJ7QfA31w&e=1783547626
+https://52mjmy1262pb.48552462.net:8443/hls/z700mrpx530rp.m3u8?s=hMQ2oT3ew-lebTY-Q56AxA&e=1783547742
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Wimbledon vs Wimbledon [22:55 WIB 08/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://52mjmy1262pb.48552462.net:8443/hls/suddyn15kb5wj.m3u8?s=kVn-j3AJPbqWdav0z2xkAg&e=1783547747
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Olympiacos vs Rakow Czestochowa [22:55 WIB 08/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://52mjmy1262pb.48552462.net:8443/hls/z700mrpx530rp.m3u8?s=4UogQNysh5R0bkY4aB5AbQ&e=1783547752
 
