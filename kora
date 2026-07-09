@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [22:29 WIB 09/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [22:31 WIB 09/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Karolina Muchova vs Cori Gauff [22:29 WIB 09/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Karolina Muchova vs Cori Gauff [22:31 WIB 09/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://jp4zhfst.04334746.net:8443/hls/suddyn15kb5wj.m3u8?s=_uW6iw-0zIK-Vu-3d2LIhA&e=1783632557
+https://vmre6nax.12703830.net:8443/hls/suddyn15kb5wj.m3u8?s=ksiu7YavhYxXFTDIf9EHzQ&e=1783632679
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Karolina Muchova vs Cori Gauff [22:29 WIB 09/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Marta Kostyuk vs Linda Noskova [22:31 WIB 09/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
-https://jp4zhfst.04334746.net:8443/hls/suddyn15kb5wj.m3u8?s=9ILMXrk1NwC1zbf4uZAtgg&e=1783632564
+https://vmre6nax.12703830.net:8443/hls/suddyn15kb5wj.m3u8?s=1Jqr7jlNS3wuFcxthhEnyA&e=1783632684
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Karolina Muchova vs Cori Gauff [22:31 WIB 09/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://vmre6nax.12703830.net:8443/hls/suddyn15kb5wj.m3u8?s=AjnadgbG-l0fDOlD7WDdsw&e=1783632690
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Marta Kostyuk vs Linda Noskova [22:31 WIB 09/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://score808.app/
+#EXTVLCOPT:http-origin=https://score808.app
+https://vmre6nax.12703830.net:8443/hls/suddyn15kb5wj.m3u8?s=rGW1SyBwPdAhDS6veGBuFg&e=1783632695
 
