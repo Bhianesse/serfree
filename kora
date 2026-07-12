@@ -1,28 +1,22 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [13:07 WIB 12/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [13:09 WIB 12/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Argentina vs Switzerland [13:07 WIB 12/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Conor McGregor vs Max Holloway [13:09 WIB 12/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a122.azplay43.me/hls/streama262966/index.m3u8?cst=d41d7a7581d21da17972933b663d182c
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Argentina vs Switzerland [13:09 WIB 12/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://score808.app/
 #EXTVLCOPT:http-origin=https://score808.app
 https://meechskykrysiak.s3.us-west-1.amazonaws.com/sportsnet_720p30.m3u8
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Conor McGregor vs Max Holloway [13:07 WIB 12/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Conor McGregor vs Max Holloway [13:09 WIB 12/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a59.azplay43.me/hls/streama262966/index.m3u8?cst=28e210abe8170a81b93f688ca9513005
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Argentina vs Switzerland [13:07 WIB 12/07/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://score808.app/
-#EXTVLCOPT:http-origin=https://score808.app
-https://meechskykrysiak.s3.us-west-1.amazonaws.com/sportsnet_720p30.m3u8
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Conor McGregor vs Max Holloway [13:07 WIB 12/07/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.st/
-#EXTVLCOPT:http-origin=https://iframe.st
-https://a80.azplay43.me/hls/streama262966/index.m3u8?cst=25fa8cfee51e67b8b42a3b8071ad2384
+https://a51.azplay43.me/hls/streama262966/index.m3u8?cst=ded3cb11293e9839e790cc0c0e94f579
 
