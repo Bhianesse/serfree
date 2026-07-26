@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:42 WIB 27/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [01:44 WIB 27/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roma vs Cannes [01:42 WIB 27/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roma vs Cannes [01:44 WIB 27/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://4v72m4af45j3.48552462.net:8443/hls/acgg75tlvrxeh.m3u8?s=jntl8tDz661XQgC55LP42Q&e=1785112943
+https://ebg0lnn3w6bd.99428386.net:8443/hls/acgg75tlvrxeh.m3u8?s=57Ujnnw1ElmmpDJfXKkJpw&e=1785113048
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roma vs Cannes [01:42 WIB 27/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sevilla vs AD Ceuta FC [01:44 WIB 27/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://4v72m4af45j3.48552462.net:8443/hls/acgg75tlvrxeh.m3u8?s=Y186YQRI8_fZyQUTHg5K3w&e=1785112948
+https://ebg0lnn3w6bd.99428386.net:8443/hls/pq11l3p9wvhy.m3u8?s=pB8bFW_KY89ph71JdSTTbw&e=1785113054
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Roma vs Cannes [01:44 WIB 27/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
+#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
+https://ebg0lnn3w6bd.99428386.net:8443/hls/acgg75tlvrxeh.m3u8?s=cILg7yGfLPHSrZ9olJsf3g&e=1785113058
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sevilla vs AD Ceuta FC [01:44 WIB 27/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
+#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
+https://ebg0lnn3w6bd.99428386.net:8443/hls/pq11l3p9wvhy.m3u8?s=RV6ataYMgfJMR_8gsGKefg&e=1785113063
 
