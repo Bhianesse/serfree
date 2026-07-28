@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:13 WIB 29/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:15 WIB 29/07/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Aston Villa vs Real Sociedad [03:13 WIB 29/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Aston Villa vs Real Sociedad [03:15 WIB 29/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://dju0i71815mu.99428386.net:8443/hls/nessgjp115wr8.m3u8?s=iImDN7jPUUcXlYrbI8ODgA&e=1785291187
+https://szgcmkjn.28585519.net:8443/hls/nessgjp115wr8.m3u8?s=7SzaHBTz9iW1NjpxdcqTkg&e=1785291310
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Stoke City vs Everton [03:13 WIB 29/07/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Stoke City vs Everton [03:15 WIB 29/07/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://dju0i71815mu.99428386.net:8443/hls/suddyn15kb5wj.m3u8?s=c6WGMAgqlmy2Qnlv45j7BQ&e=1785291193
+https://szgcmkjn.28585519.net:8443/hls/suddyn15kb5wj.m3u8?s=dxdLk88cBWOeA1_7wFT3vw&e=1785291315
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Aston Villa vs Real Sociedad [03:15 WIB 29/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
+#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
+https://szgcmkjn.28585519.net:8443/hls/nessgjp115wr8.m3u8?s=b0PMrnVEzIvuPhggL-NVOg&e=1785291320
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Stoke City vs Everton [03:15 WIB 29/07/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
+#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
+https://szgcmkjn.28585519.net:8443/hls/suddyn15kb5wj.m3u8?s=VDbk-zLFw9-dYC4f0w0BOA&e=1785291324
 
