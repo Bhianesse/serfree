@@ -1,16 +1,22 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [00:15 WIB 02/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [00:17 WIB 02/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Madrid vs Fiorentina [00:15 WIB 02/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Madrid vs Fiorentina [00:17 WIB 02/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://88d6b1qltk2z.45487153.net:8443/hls/9pbbu39owf6b9.m3u8?s=Top-hzWT0-7pqYFV8zR5qA&e=1785626116
+https://b84gdva8.39564828.net:8443/hls/9pbbu39owf6b9.m3u8?s=lY_4sW7z2v8BVPpmLsscgQ&e=1785626235
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Arsenal [00:15 WIB 02/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Real Madrid vs Fiorentina [00:17 WIB 02/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://88d6b1qltk2z.45487153.net:8443/hls/9pbbu39owf6b9.m3u8?s=SzkT6Hz5Eg6vC8HbeDblfQ&e=1785626121
+https://b84gdva8.39564828.net:8443/hls/9pbbu39owf6b9.m3u8?s=TkXqThnXbSn9Ba6sAZfyjQ&e=1785626243
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Arsenal [00:17 WIB 02/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
+#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
+https://b84gdva8.39564828.net:8443/hls/9pbbu39owf6b9.m3u8?s=fnWyQeHF-JFXu3ITHVd23A&e=1785626250
 
