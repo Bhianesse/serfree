@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:16 WIB 02/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:18 WIB 02/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Arsenal [03:16 WIB 02/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Uros Medic vs Daniel Rodriguez [03:18 WIB 02/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
-#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://0j7bn6j8xsdy.45487153.net:8443/hls/9pbbu39owf6b9.m3u8?s=Ke_CZa9Mgv0lcAFT0yVdQg&e=1785636981
+#EXTVLCOPT:http-referrer=https://streame.center/
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream3.pro/hls/zeuryuegn48.m3u8?st=6Ol5wJ9agx1Tk6PXmER72Yu3WexVdI1uYRwRPI39Gxw&e=1785626304
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Arsenal [03:16 WIB 02/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Arsenal [03:18 WIB 02/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://0j7bn6j8xsdy.45487153.net:8443/hls/9pbbu39owf6b9.m3u8?s=9xh4lx--xxgvq7y0pTsJgQ&e=1785636989
+https://7npr560fmznj.45487153.net:8443/hls/9pbbu39owf6b9.m3u8?s=5iszvAkj7aXJZGXj7VMYRg&e=1785637111
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Uros Medic vs Daniel Rodriguez [03:18 WIB 02/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center/
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream1.pro/hls/zeuryuegn48.m3u8?st=24dxfuGoAWKrqr8YUSViOS9tGFk_yhrJgRv6Ow48A6s&e=1785626317
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Girona vs Arsenal [03:18 WIB 02/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
+#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
+https://7npr560fmznj.45487153.net:8443/hls/9pbbu39owf6b9.m3u8?s=NR53O81dvjcoth-iN66zuA&e=1785637123
 
