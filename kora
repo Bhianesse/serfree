@@ -1,22 +1,34 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:06 WIB 06/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:10 WIB 06/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Arsenal vs Real Betis [02:06 WIB 06/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Fenerbahce vs SK Sturm Graz [02:10 WIB 06/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://b8jk2042xd7d.48552462.net:8443/hls/ulgk1vzsw8aqr.m3u8?s=Wdu_U48uzIW90hPfwZSlWw&e=1785978385
+https://97c6ml23ef1o.48552462.net:8443/hls/1n55vjab4n8zc.m3u8?s=pGFxVNI1RL3d05iiMW1V3w&e=1785978553
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Arsenal vs Real Betis [02:06 WIB 06/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Napoli vs Osasuna [02:10 WIB 06/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://b8jk2042xd7d.48552462.net:8443/hls/nessgjp115wr8.m3u8?s=bDXfBCQYeGDR7ewsqB4jOg&e=1785978406
+https://97c6ml23ef1o.48552462.net:8443/hls/g8yy3cfv128h5.m3u8?s=kDLPB7qR0tsUHu_3TB3hPA&e=1785978579
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Panathinaikos vs CSKA 1948 [02:06 WIB 06/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Fenerbahce vs SK Sturm Graz [02:10 WIB 06/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
 #EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
-https://b8jk2042xd7d.48552462.net:8443/hls/acgg75tlvrxeh.m3u8?s=2Pjx3m9hpcZ5VAu13_LEEA&e=1785978410
+https://97c6ml23ef1o.48552462.net:8443/hls/1n55vjab4n8zc.m3u8?s=FJwTVUFtXSvLKPfZ-QINFA&e=1785978585
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Arsenal vs Real Betis [02:10 WIB 06/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
+#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
+https://97c6ml23ef1o.48552462.net:8443/hls/nessgjp115wr8.m3u8?s=3KW3v2EczLUt_9x2kQTNCw&e=1785978595
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Panathinaikos vs CSKA 1948 [02:10 WIB 06/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://w1.sportsonlinee.click/
+#EXTVLCOPT:http-origin=https://w1.sportsonlinee.click
+https://97c6ml23ef1o.48552462.net:8443/hls/acgg75tlvrxeh.m3u8?s=HazuW5c3Vw0tgfrzrDfHRA&e=1785978601
 
