@@ -1,16 +1,22 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [21:52 WIB 09/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [21:56 WIB 09/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Manchester City vs Atletico Madrid [21:52 WIB 09/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Johor Darul Takzim FC vs Chelsea [21:56 WIB 09/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed.cx/
 #EXTVLCOPT:http-origin=https://embed.cx
-https://a115.azplay47.me/hls/streama262587/index.m3u8?cst=8b06ab7721e0ff6727be38385550cb57
+https://a80.azplay47.me/hls/streama262587/index.m3u8?cst=0ff96bee628108da46b68c91d667caca
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Johor Darul Takzim FC vs Chelsea [21:52 WIB 09/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Manchester City vs Atletico Madrid [21:56 WIB 09/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed.cx/
 #EXTVLCOPT:http-origin=https://embed.cx
-https://a85.azplay47.me/hls/streama262587/index.m3u8?cst=f2bf1bb1a9878b12918185a94b319c3c
+https://a51.azplay47.me/hls/streama262587/index.m3u8?cst=efa1da8b047852554918bbfbc1df4b95
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Johor Darul Takzim FC vs Chelsea [21:56 WIB 09/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed.cx/
+#EXTVLCOPT:http-origin=https://embed.cx
+https://a116.azplay47.me/hls/streama262587/index.m3u8?cst=3508ba8019592a88cf302ca887b1eacb
 
