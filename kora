@@ -1,16 +1,52 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [04:36 WIB 23/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [04:39 WIB 23/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Espanyol vs Real Madrid [04:36 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Espanyol vs Real Madrid [04:39 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ziangel.com/
 #EXTVLCOPT:http-origin=https://ziangel.com
-https://a114.azplay47.me/hls/streama264916/index.m3u8?cst=bebb8404a3fcd288d6ac9f43e6003ddf
+https://a90.azplay47.me/hls/streama264916/index.m3u8?cst=ea087403bcdc91d0892df418fe000591
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Espanyol vs Real Madrid [04:36 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Borussia Dortmund vs Bayern Munich [04:39 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a122.azplay47.me/hls/streama264907/index.m3u8?cst=40fc863943290ee1f5a7f9b5750a274d
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Napoli [04:39 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a90.azplay47.me/hls/streama264844/index.m3u8?cst=999e86e329bc23cccea9f5f69f9405bb
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Parma vs Cagliari [04:39 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center/
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream3.pro/hls/syaLqucEne4k.m3u8?st=RsrJVt6qFEGdS1xOMO-foRv3gi6AAZgCRe_t_XLK-Po&e=1787445521
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Espanyol vs Real Madrid [04:39 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ziangel.com/
 #EXTVLCOPT:http-origin=https://ziangel.com
-https://a94.azplay47.me/hls/streama264916/index.m3u8?cst=fb953445651e420d368dce9a5b811820
+https://a74.azplay47.me/hls/streama264916/index.m3u8?cst=40eb1b35bf8568dd94ee16f68645655d
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Borussia Dortmund vs Bayern Munich [04:39 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a59.azplay47.me/hls/streama264907/index.m3u8?cst=f2837c22a893c21ac42fd632d5ace94a
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Napoli [04:39 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a80.azplay47.me/hls/streama264844/index.m3u8?cst=c964476e1b6695b02a52a1b777207a04
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Parma vs Cagliari [04:39 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streame.center/
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream1.pro/hls/syaLqucEne4k.m3u8?st=b40ZS6DiX2dZrBHkd4fmWCEOnz0WQA5UTjv3EL3r0tQ&e=1787445565
 
