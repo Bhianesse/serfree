@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:56 WIB 23/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:02 WIB 23/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Inter vs Monza [02:56 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Borussia Dortmund vs Bayern Munich [03:02 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a118.azplay47.me/hls/streama264844/index.m3u8?cst=68f71d83671f93ee781d30872813ffd3
+https://a51.azplay47.me/hls/streama264907/index.m3u8?cst=2506bc2ca28daf1fcdf9a30c880ed956
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Inter vs Monza [02:56 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Napoli [03:02 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a27.azplay47.me/hls/streama264844/index.m3u8?cst=1b5f56e16c1ec6f6641e55f5afc22557
+https://a114.azplay47.me/hls/streama264844/index.m3u8?cst=e9ddd10a20ae32a13b8c8beb4a878a1c
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Borussia Dortmund vs Bayern Munich [03:02 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a74.azplay47.me/hls/streama264907/index.m3u8?cst=91c92afe943debeba6d6f13f1e097f30
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Napoli [03:02 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a50.azplay47.me/hls/streama264844/index.m3u8?cst=a36300e08db6a37eec815b0483cc72fc
 
