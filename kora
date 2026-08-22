@@ -1,28 +1,40 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:39 WIB 23/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:43 WIB 23/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Napoli [02:39 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Espanyol vs Real Madrid [02:43 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ziangel.com/
+#EXTVLCOPT:http-origin=https://ziangel.com
+https://a52.azplay47.me/hls/streama264916/index.m3u8?cst=9857fdf55626a3b458ef502a35aac29b
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Napoli [02:43 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a49.azplay47.me/hls/streama264844/index.m3u8?cst=b1d4ccb99f20eb73970349e32c0116f7
+https://a74.azplay47.me/hls/streama264844/index.m3u8?cst=ac90f8a57a5139bbde5024c48fca18e2
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Parma vs Cagliari [02:39 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Parma vs Cagliari [02:43 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center/
 #EXTVLCOPT:http-origin=https://streame.center
-https://edgestream3.pro/hls/syaLqucEne4k.m3u8?st=ytpZDZn3MhQswJp95Ivc4rO7_PXz98cpCGwz5PmcgaY&e=1787438281
+https://edgestream3.pro/hls/syaLqucEne4k.m3u8?st=HbN3b4MgARcnhwvGr0eCsKQPjumw7rj71n9w0LwwJ9w&e=1787438558
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Napoli [02:39 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Espanyol vs Real Madrid [02:43 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ziangel.com/
+#EXTVLCOPT:http-origin=https://ziangel.com
+https://a74.azplay47.me/hls/streama264916/index.m3u8?cst=24647ec009734aca47ab205e48f34abd
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Genoa vs Napoli [02:43 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a74.azplay47.me/hls/streama264844/index.m3u8?cst=1a381f526569c30121472742ff400605
+https://a27.azplay47.me/hls/streama264844/index.m3u8?cst=392c1f4751024cdf6f9e49956c4d3827
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Parma vs Cagliari [02:39 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Parma vs Cagliari [02:43 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center/
 #EXTVLCOPT:http-origin=https://streame.center
-https://edgestream7.pro/hls/syaLqucEne4k.m3u8?st=28NskcbdvyVYfzf7Ef6TpBLkewHDikFZamucOen6v6c&e=1787438338
+https://edgestream7.pro/hls/syaLqucEne4k.m3u8?st=ZfBryinRp5kjDp6vE2aDVD3X_6WFHjK2SxMXS3Y-Q_s&e=1787438603
 
