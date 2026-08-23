@@ -1,16 +1,22 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:25 WIB 24/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:29 WIB 24/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rennes vs Paris Saint-Germain [03:25 WIB 24/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rennes vs Paris Saint-Germain [03:29 WIB 24/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a114.azplay47.me/hls/streama264844/index.m3u8?cst=8237cbfae143b6066a85528215bfd98c
+https://a116.azplay47.me/hls/streama264844/index.m3u8?cst=dc0e85e1b464cfe0c5ff42baeaa0afbc
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rennes vs Paris Saint-Germain [03:25 WIB 24/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Torino vs Milan [03:29 WIB 24/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a94.azplay47.me/hls/streama264844/index.m3u8?cst=b99c42afafb327b81d5146accf4659a8
+https://a75.azplay47.me/hls/streama264907/index.m3u8?cst=2553f6a60c2da397fcb76f82aa942178
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Torino vs Milan [03:29 WIB 24/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a121.azplay47.me/hls/streama264907/index.m3u8?cst=b7ecbc94e6f7dcb45340da97ed26a8df
 
