@@ -1,16 +1,40 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [19:13 WIB 23/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [19:15 WIB 23/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Formula 1 vs Formula 1 [19:13 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Formula 1 vs Formula 1 [19:15 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a51.azplay47.me/hls/streama264835/index.m3u8?cst=839d7595cb75ced93e4cb6cb2607a6b9
+https://a94.azplay47.me/hls/streama264835/index.m3u8?cst=43eaf0f59c9748a16ba637efc00c9664
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Formula 1 vs Formula 1 [19:13 WIB 23/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Brighton vs Aston Villa [19:15 WIB 23/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a85.azplay47.me/hls/streama264835/index.m3u8?cst=0bc1da910fb54cb7073576314058295d
+https://a75.azplay47.me/hls/streama264907/index.m3u8?cst=93d3cad6f38f2ccce1e71efd8f802773
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Manchester City vs Bournemouth [19:15 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a114.azplay47.me/hls/streama264910/index.m3u8?cst=2918489d2252707c5ba7a0a9a0c6f195
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Formula 1 vs Formula 1 [19:15 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a122.azplay47.me/hls/streama264835/index.m3u8?cst=3c5508e1fa375a304b48dcb508328803
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Brighton vs Aston Villa [19:15 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a119.azplay47.me/hls/streama264907/index.m3u8?cst=d85164b0d63c272065bbd44580820772
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Manchester City vs Bournemouth [19:15 WIB 23/08/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.st/
+#EXTVLCOPT:http-origin=https://iframe.st
+https://a115.azplay47.me/hls/streama264910/index.m3u8?cst=3c9d0b28e5cbbf825957d4eb9b1057a1
 
