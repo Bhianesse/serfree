@@ -1,28 +1,22 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:46 WIB 24/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [02:49 WIB 24/08/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rennes vs Paris Saint-Germain [02:46 WIB 24/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Torino vs Milan [02:49 WIB 24/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a114.azplay47.me/hls/streama264844/index.m3u8?cst=b88ca45444c5a7c20e65967c144cccad
+https://a59.azplay47.me/hls/streama264907/index.m3u8?cst=3f8a3ebf0748e6105ba87db4eaf709fd
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Torino vs Milan [02:46 WIB 24/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rennes vs Paris Saint-Germain [02:49 WIB 24/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a117.azplay47.me/hls/streama264907/index.m3u8?cst=a50642461f0174e25e05476428de3e95
+https://a78.azplay47.me/hls/streama264844/index.m3u8?cst=9ed88023dbdc16e0020700d1ea8b275b
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Rennes vs Paris Saint-Germain [02:46 WIB 24/08/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Torino vs Milan [02:49 WIB 24/08/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.st/
 #EXTVLCOPT:http-origin=https://iframe.st
-https://a122.azplay47.me/hls/streama264844/index.m3u8?cst=2b15eadc2919e779c1a85afb27e22ed4
-
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Torino vs Milan [02:46 WIB 24/08/2026] []
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.st/
-#EXTVLCOPT:http-origin=https://iframe.st
-https://a114.azplay47.me/hls/streama264907/index.m3u8?cst=c8856a12e305b20fe8a0b1f1e1b2a9fd
+https://a78.azplay47.me/hls/streama264907/index.m3u8?cst=f0466e91946627518e2c6cbd879a9348
 
