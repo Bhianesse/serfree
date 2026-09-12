@@ -1,16 +1,28 @@
 #EXTM3U tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:14 WIB 13/09/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V7: [03:17 WIB 13/09/2026]", Update V7: Donasi Support Developer https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Jean Silva vs Jose Delgado [03:14 WIB 13/09/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sunderland vs Arsenal [03:17 WIB 13/09/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gozowatch.top/
 #EXTVLCOPT:http-origin=https://gozowatch.top
-https://a115.azplay47.me/hls/streama267487/index.m3u8?cst=792492b19ae5ab8f116351e64f06efcf
+https://a93.azplay47.me/hls/streama266379/index.m3u8?cst=5729d720194ff08eadc7ac3ddcd46619
 
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Jean Silva vs Jose Delgado [03:14 WIB 13/09/2026] []
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Jean Silva vs Jose Delgado [03:17 WIB 13/09/2026] []
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://gozowatch.top/
 #EXTVLCOPT:http-origin=https://gozowatch.top
-https://a74.azplay47.me/hls/streama267487/index.m3u8?cst=add10f7a24279a11de0ea8cc3f653c23
+https://a115.azplay47.me/hls/streama267487/index.m3u8?cst=19cdb2a8fb6c55812f89e730596543d2
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Sunderland vs Arsenal [03:17 WIB 13/09/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gozowatch.top/
+#EXTVLCOPT:http-origin=https://gozowatch.top
+https://a116.azplay47.me/hls/streama266379/index.m3u8?cst=02333d1705c9df5d871e35b655e4666c
+
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="⚽kora koar⚽",Jean Silva vs Jose Delgado [03:17 WIB 13/09/2026] []
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gozowatch.top/
+#EXTVLCOPT:http-origin=https://gozowatch.top
+https://a73.azplay47.me/hls/streama267487/index.m3u8?cst=116650a0b97b2b460bc8245cb15e7585
 
